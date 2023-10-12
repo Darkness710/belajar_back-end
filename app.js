@@ -1,4 +1,4 @@
-onst memoryInformation = process.memoryUsage();
+const memoryInformation = process.memoryUsage();
  
 console.log(memoryInformation);
  
